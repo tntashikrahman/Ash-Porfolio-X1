@@ -49,26 +49,26 @@ npm start
 Your portfolio will now be live on http://localhost:3000.
 
 📝 Features to Add
-Dark Mode (coming soon)
+- Dark Mode (coming soon)
 
-Blog Section (coming soon)
+- Blog Section (coming soon)
 
 💬 Contact Me
-Email: your-email@example.com
+- Email: your-email@example.com
 
-LinkedIn: Your LinkedIn Profile
+- LinkedIn: Your LinkedIn Profile
 
-GitHub: Your GitHub Profile
+- GitHub: Your GitHub Profile
 
-Twitter: @YourTwitterHandle
+- Twitter: @YourTwitterHandle
 
 Feel free to explore and reach out with any questions!
 
 Thank you for visiting my portfolio!
 
-vbnet
-Copy
-Edit
+- vbnet
+- Copy
+- Edit
 
 ### Steps to Add Your Image:
 1. Upload your image to a hosting service or use your GitHub repo to store the image.
