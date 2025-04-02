@@ -12,10 +12,8 @@ export const Home = () => {
             Hi, I'm Ashik Rahman
           </h1>
 
-          <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I’m a full-stack web developer who loves crafting clean, scalable web
-            applications. My goal is to build solutions that offer both
-            exceptional performance and a delightful user experience.
+          <p className="flex justify-between items-center tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
+          I’m a full-stack developer focused on building clean, scalable web apps with excellent performance and seamless user experiences.
           </p>
           <div className="flex justify-center space-x-4">
             <a

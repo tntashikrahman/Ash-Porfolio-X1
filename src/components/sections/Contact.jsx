@@ -26,6 +26,9 @@ export const Contact = () => {
       .catch(() => alert("Oops! Something went wrong. Please try again."));
   };
 
+  // Get the current year dynamically
+  const currentYear = new Date().getFullYear();
+
   return (
     <section
       id="contact"
@@ -34,7 +37,6 @@ export const Contact = () => {
       <RevealOnScroll>
         <div className="px-4 w-full min-w-[300px] md:w-[500px] sm:w-2/3 p-6">
           <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent text-center">
-            {" "}
             Get In Touch
           </h2>
           <form className="space-y-6" onSubmit={handleSubmit}>
@@ -71,7 +73,7 @@ export const Contact = () => {
             <div className="relative">
               <textarea
                 id="message"
-                name="message"
+                name="message"http://localhost:4000/#
                 required
                 rows={5}
                 value={formData.message}
@@ -90,6 +92,15 @@ export const Contact = () => {
               Send Message
             </button>
           </form>
+
+          {/* Contact Details & Copyright Section */}
+          <div className="mt-8 text-center text-white">
+            <p className="text-lg font-semibold">Email: <a href="mailto:tntashikrahman@gmail.com" className="text-blue-400 hover:text-blue-300">tntashikrahman@gmail.com</a></p>
+            <p className="text-lg font-semibold">Phone: <a href="tel:+8801706924313" className="text-blue-400 hover:text-blue-300">+8801706924313</a></p>
+            <p className="text-sm mt-4 text-gray-400">
+              &copy; AshikRahman {currentYear}. All Rights Reserved.
+            </p>
+          </div>
         </div>
       </RevealOnScroll>
     </section>

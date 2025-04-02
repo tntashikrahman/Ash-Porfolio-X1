@@ -32,13 +32,10 @@ export const Projects = () => {
                 ))}
               </div>
 
-              <div className="flex justify-between items-center">
-                <a
-                  href="#"
-                  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
-                >
-                  by Ashik →
-                </a>
+              <div className="flex justify-between items-center text-white hover:text-gray-300 transition-colors my-4">
+
+                  By Ashik
+              
               </div>
             </div>
             <div
@@ -69,16 +66,14 @@ export const Projects = () => {
                     {tech}
                   </span>
                 ))}
-              </div>
-              <div className="flex justify-between items-center">
-                <a
-                  href="#"
-                  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
-                >
-             by Ashik →
-                </a>
-              </div>
-            </div>
+               </div>
+
+<div className="flex justify-between items-center text-white hover:text-gray-300 transition-colors my-4">
+
+    By Ashik
+
+</div>
+</div>
 
             <div
               className="
@@ -111,13 +106,11 @@ export const Projects = () => {
                   )
                 )}
               </div>
-              <div className="flex justify-between items-center">
-                <a
-                  href="#"
-                  className="text-blue-400 hover:text-blue-300 transition-colors my-4"
-                >
-                 by Ashik →
-                </a>
+
+              <div className="flex justify-between items-center text-white hover:text-gray-300 transition-colors my-4">
+
+                  By Ashik
+              
               </div>
             </div>
 
@@ -149,17 +142,14 @@ export const Projects = () => {
                     {tech}
                   </span>
                 ))}
-                          </div>
-                          <div className="flex justify-between items-center text-white hover:text-gray-300 transition-colors my-4">
-
-                    by Ashik
               </div>
-              <div className="flex justify-between items-center ">
+              <div className="flex justify-between items-center text-white hover:text-gray-300 transition-colors my-4">
+
+               <span>By Ashik</span>
                 <a
                   href="https://syrax-z2.onrender.com/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-               
                   View Project →
                 </a>
               </div>
