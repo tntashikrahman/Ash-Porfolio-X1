@@ -26,11 +26,11 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
    git clone https://github.com/your-username/Ash-Portfolio-X1.git
 
 2.Navigate into the project directory:
-```bash
+bash
 cd Ash-Portfolio-X1
 
 3.Install dependencies:
-```bash
+bash
 npm install
 
 4.Run the project:
