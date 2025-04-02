@@ -23,7 +23,7 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 
 1. Clone the repository:
 ```sh
-   git clone https://github.com/your-username/Ash-Portfolio-X1.git
+   git clone https://github.com/tntashikrahman/Ash-Portfolio-X1.git
 ```
 2.Navigate into the project directory:
 ```sh
