@@ -17,7 +17,7 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 
 ## 📸 Portfolio Screenshot
 
-![Portfolio Screenshot](https://res.cloudinary.com/dfrvp6cti/image/upload/v1743604410/j33jrw5g2wdzcv5ltuak.png)
+![Portfolio Screenshot](https://res.cloudinary.com/dfrvp6cti/image/upload/v1743606808/pa67netbkfrelww1qrmv.png)
 
 ## ⚙️ How to Run Locally
 
