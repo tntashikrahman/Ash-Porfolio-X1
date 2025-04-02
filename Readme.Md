@@ -22,6 +22,33 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
-```bash
+```sh
    git clone https://github.com/your-username/Ash-Portfolio-X1.git
+```
+2.Navigate into the project directory:
+```sh
+cd Ash-Portfolio-X1
+```
+3.Install dependencies:
+```sh
+npm install
+```
+4.Run the project:
+```sh
+npm start
+```
+
+Your portfolio will now be live on http://localhost:3000.
+
+📝 Features to Add
+- Dark Mode (coming soon)
+
+- Blog Section (coming soon)
+
+💬 Contact Me
+- Email: tntashikrahman@gmail.com
+
+- GitHub: tntashikrahman
+
+Feel free to explore and reach out with any questions!
 
