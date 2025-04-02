@@ -147,7 +147,7 @@ export const Projects = () => {
 
                <span>By Ashik</span>
                 <a
-                  href="https://syrax-z2.onrender.com/"
+                  href="https://syrax-z2.onrender.com/" target="_blank" rel="noopener noreferrer"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
                   View Project →
