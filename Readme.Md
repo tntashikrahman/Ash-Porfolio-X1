@@ -54,24 +54,8 @@ Your portfolio will now be live on http://localhost:3000.
 - Blog Section (coming soon)
 
 💬 Contact Me
-- Email: your-email@example.com
+- Email: tntashikrahman@gmail.com
 
-- LinkedIn: Your LinkedIn Profile
-
-- GitHub: Your GitHub Profile
-
-- Twitter: @YourTwitterHandle
+- GitHub: tntashikrahman
 
 Feel free to explore and reach out with any questions!
-
-Thank you for visiting my portfolio!
-
-- vbnet
-- Copy
-- Edit
-
-### Steps to Add Your Image:
-1. Upload your image to a hosting service or use your GitHub repo to store the image.
-2. Replace `your-image-link-here` in the code above with the actual URL of your image.
-
-Let me know if you need any other specific customization or if there’s anything else you want 
