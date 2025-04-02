@@ -11,13 +11,9 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 
 ## 🛠️ Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js (if used in your portfolio)
-- Node.js (if applicable)
-- MongoDB (if applicable)
-- Other technologies or frameworks you used
+- Node.js 
+- React.js 
+- TailwindCSS
 
 ## 📸 Portfolio Screenshot
 
@@ -26,26 +22,21 @@ Welcome to my personal portfolio! This project showcases my skills, experience, 
 ## ⚙️ How to Run Locally
 
 1. Clone the repository:
-   ```bash
+```bash
    git clone https://github.com/your-username/Ash-Portfolio-X1.git
-Navigate into the project directory:
 
-bash
-Copy
-Edit
+2.Navigate into the project directory:
+```bash
 cd Ash-Portfolio-X1
-Install dependencies:
 
-bash
-Copy
-Edit
+3.Install dependencies:
+```bash
 npm install
-Run the project:
 
-bash
-Copy
-Edit
+4.Run the project:
+```bash
 npm start
+
 Your portfolio will now be live on http://localhost:3000.
 
 📝 Features to Add
