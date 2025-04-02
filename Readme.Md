@@ -34,8 +34,9 @@ cd Ash-Portfolio-X1
 npm install
 
 4.Run the project:
-```bash
 npm start
+
+
 
 Your portfolio will now be live on http://localhost:3000.
 
