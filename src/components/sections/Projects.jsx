@@ -37,7 +37,7 @@ export const Projects = () => {
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+                  by Ashik →
                 </a>
               </div>
             </div>
@@ -75,7 +75,7 @@ export const Projects = () => {
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+             by Ashik →
                 </a>
               </div>
             </div>
@@ -116,7 +116,7 @@ export const Projects = () => {
                   href="#"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
-                  View Project →
+                 by Ashik →
                 </a>
               </div>
             </div>
@@ -149,12 +149,17 @@ export const Projects = () => {
                     {tech}
                   </span>
                 ))}
+                          </div>
+                          <div className="flex justify-between items-center text-white hover:text-gray-300 transition-colors my-4">
+
+                    by Ashik
               </div>
               <div className="flex justify-between items-center ">
                 <a
                   href="https://syrax-z2.onrender.com/"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
+               
                   View Project →
                 </a>
               </div>
